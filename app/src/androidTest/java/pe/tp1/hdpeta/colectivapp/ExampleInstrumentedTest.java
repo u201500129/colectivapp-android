@@ -1,4 +1,4 @@
-package pe.tp1.hdpeta.jalame;
+package pe.tp1.hdpeta.colectivapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

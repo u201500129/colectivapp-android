@@ -1,4 +1,4 @@
-package pe.tp1.hdpeta.jalame;
+package pe.tp1.hdpeta.colectivapp;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -93,6 +93,8 @@ public class MainActivity extends AppCompatActivity
         } else if (id == R.id.nav_share) {
 
         } else if (id == R.id.nav_calificar) {
+
+        } else if (id == R.id.nav_logout) {
 
         }
 

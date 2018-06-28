@@ -19,7 +19,7 @@
     <EditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="Ingrese su email"
+        android:hint="@string/ingrese_su_email"
         android:layout_margin="5dp"
         android:inputType="textEmailAddress"
         android:id="@+id/emailEditText"/>
@@ -28,14 +28,14 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="5dp"
-        android:hint="Contraseña"
+        android:hint="@string/password"
         android:inputType="textPassword"
         android:id="@+id/passwordEditText"/>
 
     <Button
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="Ingresar"
+        android:text="@string/ingresar"
         android:id="@+id/ingresarButton"/>
 
 </LinearLayout>
