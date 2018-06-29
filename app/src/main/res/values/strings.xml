@@ -2,7 +2,7 @@
     <string name="app_name">Jalame</string>
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">ColectivApp</string>
+    <string name="nav_header_title">JALAME</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
     <string name="nav_header_desc">Navigation header</string>
     <string name="action_settings">Settings</string>
@@ -10,4 +10,11 @@
     <string name="ingrese_su_email">Ingrese su email</string>
     <string name="password">Contraseña</string>
     <string name="ingresar">Ingresar</string>
+    <string name="ingrese_sus_nombres">Ingrese sus nombres</string>
+    <string name="ingrese_sus_apellidos">Ingrese sus apellidos</string>
+    <string name="ingrese_su_celular">Ingrese su celular</string>
+    <string name="ingrese_su_password">Ingrese su contraseña</string>
+    <string name="confirme_su_password">Confirme su contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="no_tienes_una_cuenta"><u>¿No tienes una cuenta?</u></string>
 </resources>
